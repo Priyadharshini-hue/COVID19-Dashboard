@@ -11,7 +11,7 @@ const India = ({ posts1 }) => {
 
   return (
     <div>
-      <h2>Indian Cases</h2>
+      <h2>India</h2>
       <small id="small">Last updated : {postUpdated}</small>
       <CardDeck>
         <Card
