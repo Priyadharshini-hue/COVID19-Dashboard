@@ -3,10 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-body{
- background-color: #5a5858;
-  color:'white';
-}
 h2 {
   display: flex;
   justify-content: center;
